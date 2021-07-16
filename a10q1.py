@@ -1,5 +1,3 @@
-#Raimbek Nussipkhozhin, NFU892, 11313819, Jeffrey Long
-
 #Importing numpy module needed to create arrays and matplotlib needed to plot graphs
 import numpy as np
 import matplotlib.pyplot as plt
