@@ -70,7 +70,7 @@ Here are the steps for how to open, use and utilize the program:
 - Put all the files in one folder;
 - Open the file Project_k-means.py;
 - The program will open a command console in which it will ask you to name a .txt file located in the same folder;
-- Finally, the programm will output a graph with results clusterised data.
+- Finally, the program will output a graph with results clusterized data.
 
 
 *The program can use other .txt file that are in the same format as provided files.
@@ -127,3 +127,14 @@ Here are the steps for how to open, use and utilize the program:
 ![image](https://user-images.githubusercontent.com/86201781/125835746-2666ac69-9b30-4650-b2d6-58a5c2a41748.png)
 
 это содержимое файла backyard.txt, в котором содержится информация о семи образцах, причем последний образец имеет уровень 220 витамина C и уровень GLA 190.
+
+## Как использовать
+
+Вот шаги, как открыть, использовать и использовать программу:
+- Сначала загрузите все файлы, перечисленные выше;
+- Поместите все файлы в одну папку;
+- Откройте файл Project_k-means.py;
+- Программа откроет командную консоль, в которой попросит вас назвать файл .txt, расположенный в той же папке;
+- Наконец, программа выведет график с результатами кластеризации данных.
+
+* Программа может использовать другие файлы .txt в том же формате, что и предоставленные файлы.
