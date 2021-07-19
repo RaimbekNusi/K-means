@@ -70,7 +70,7 @@ Here are the steps for how to open, use and utilize the program:
 - Put all the files in one folder;
 - Open the file Project_k-means.py;
 - The program will open a command console in which it will ask you to name a .txt file located in the same folder;
-- Finally, the program will output a graph with results clusterized data.
+- Finally, the program will output a graph with results of clusterized data.
 
 
 *The program can use other .txt file that are in the same format as provided files.
@@ -135,6 +135,6 @@ Here are the steps for how to open, use and utilize the program:
 - Поместите все файлы в одну папку;
 - Откройте файл Project_k-means.py;
 - Программа откроет командную консоль, в которой попросит вас назвать файл .txt, расположенный в той же папке;
-- Наконец, программа выведет график с результатами кластеризации данных.
+- Наконец, программа выведет график с результатами кластеризованных данных.
 
 * Программа может использовать другие файлы .txt в том же формате, что и предоставленные файлы.
