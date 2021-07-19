@@ -63,7 +63,10 @@ A given input file (locationA.txt, locationB.txt, locationC.txt, backyard.txt) i
 is the contents of the file backyard.txt giving information on seven samples, and the last sample has
 vitamin C level 220 and GLA level 190.
 
+## How to use
 
+Here are the steps for how to open, use and utilize the program:
+- First, open the file 
 
 
 
