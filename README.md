@@ -73,6 +73,7 @@ Here are the steps for how to open, use and utilize the program:
 - Finally, the programm will output a graph with results clusterised data.
 
 
+*The program can use other .txt file that are in the same format as provided files.
 
 
 
