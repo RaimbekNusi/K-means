@@ -66,7 +66,13 @@ vitamin C level 220 and GLA level 190.
 ## How to use
 
 Here are the steps for how to open, use and utilize the program:
-- First, open the file 
+- First, download all of the files listed above;
+- Put all the files in one folder;
+- Open the file Project_k-means.py;
+- The program will open a command console in which it will ask you to name a .txt file located in the same folder;
+- Finally, the programm will output a graph with results clusterised data.
+
+
 
 
 
